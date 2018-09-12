@@ -1,0 +1,33 @@
+h1{
+    background-color: #4aaaa5;
+    color: white;
+    float: left;
+    padding: 40px;
+    margin-left: 10%;
+    margin-top: -50px;
+}
+
+li  {
+    list-style: none;
+    float: right;
+    padding: 20px;
+}
+
+ul{
+    margin-right: 10%;
+}
+
+button{
+    background-color: white;
+    outline: none;
+}
+
+body    {
+    background-image: url("../images/concrete-texture.png");
+}
+
+header{
+    background-color: white;
+    margin-top: 0px;
+    padding: 50px;
+}
