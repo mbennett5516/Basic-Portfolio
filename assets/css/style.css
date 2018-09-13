@@ -110,3 +110,15 @@ textarea{
     border-left: 1px solid #000000;
     border-right: 1px solid #000000;
 }
+
+.project{
+    width: 240px;
+    height: 240px;
+    margin: 0 auto;
+}
+
+.projectimg{
+    width: 80%;
+    height: 80%;
+    margin: 0 auto;
+}
