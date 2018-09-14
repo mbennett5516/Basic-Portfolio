@@ -114,11 +114,14 @@ textarea{
 .project{
     width: 240px;
     height: 240px;
-    margin: 0 auto;
+    margin-top: 20px;
 }
 
 .projectimg{
     width: 80%;
     height: 80%;
-    margin: 0 auto;
+}
+
+p.project{
+    text-align:center;
 }
